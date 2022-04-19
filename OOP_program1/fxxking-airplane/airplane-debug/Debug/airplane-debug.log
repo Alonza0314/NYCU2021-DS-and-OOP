@@ -1,0 +1,6 @@
+﻿  airplane-debug.cpp
+D:\大一下\OOP\OOP_program1\fxxking-airplane\airplane-debug\airplane-debug.cpp(601,39): warning C4552: '+': 未使用運算式結果
+D:\大一下\OOP\OOP_program1\fxxking-airplane\airplane-debug\airplane-debug.cpp(617,39): warning C4552: '+': 未使用運算式結果
+D:\大一下\OOP\OOP_program1\fxxking-airplane\airplane-debug\airplane-debug.cpp(633,39): warning C4552: '+': 未使用運算式結果
+D:\大一下\OOP\OOP_program1\fxxking-airplane\airplane-debug\airplane-debug.cpp(649,39): warning C4552: '+': 未使用運算式結果
+  airplane-debug.vcxproj -> D:\大一下\OOP\OOP_program1\fxxking-airplane\Debug\airplane-debug.exe
