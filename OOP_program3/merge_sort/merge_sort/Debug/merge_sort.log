@@ -1,0 +1,3 @@
+﻿  109550096_program_assignment3.cpp
+D:\大一下OOP\OOP_program3\merge_sort\merge_sort\109550096_program_assignment3.cpp(11,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  merge_sort.vcxproj -> D:\大一下OOP\OOP_program3\merge_sort\Debug\merge_sort.exe
