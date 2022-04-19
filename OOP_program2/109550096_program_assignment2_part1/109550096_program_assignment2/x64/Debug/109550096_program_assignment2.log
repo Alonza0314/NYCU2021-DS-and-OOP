@@ -1,0 +1,4 @@
+﻿  main func.cpp
+C:\Users\USER\OneDrive\桌面\109550096_program_assignment2_part1\109550096_program_assignment2\main func.cpp(34,28): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\USER\OneDrive\桌面\109550096_program_assignment2_part1\109550096_program_assignment2\main func.cpp(57,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  109550096_program_assignment2.vcxproj -> C:\Users\USER\OneDrive\桌面\109550096_program_assignment2_part1\x64\Debug\109550096_program_assignment2.exe
